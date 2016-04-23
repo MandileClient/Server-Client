@@ -1,0 +1,11 @@
+backup {
+    /System/..
+    /System/Config/..
+    /Modules/..
+    /Modules/Other/..
+    /..
+    /Data/..
+    /Data/Server/..
+    /Logging/..
+    /Logging/Rooms/..
+}
